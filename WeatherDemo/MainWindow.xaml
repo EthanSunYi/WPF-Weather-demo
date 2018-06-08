@@ -10,7 +10,7 @@
         <Button HorizontalAlignment="Left" Margin="59,89,0,0" VerticalAlignment="Top" Width="75">
             <Button Content="国际天气网" Width="75" Click="Button_Click"/>
         </Button>
-        <Button Content="国内天气网" HorizontalAlignment="Left" Margin="317,101,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="国内天气网" HorizontalAlignment="Left" Margin="59,101,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
